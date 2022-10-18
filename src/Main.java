@@ -2,6 +2,8 @@ import java.util.*;
 
 public class Main {
 
+    //----------------------------
+
     static Scanner scan = new Scanner(System.in);
 
     static HashMap<String, User> userHashMap = new HashMap<>();
