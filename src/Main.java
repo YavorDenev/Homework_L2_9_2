@@ -1,7 +1,8 @@
 import java.util.*;
 
-public class Main {
+// -------------------> TEST
 
+public class Main {
     static Scanner scan = new Scanner(System.in);
 
     static HashMap<String, User> userHashMap = new HashMap<>();
